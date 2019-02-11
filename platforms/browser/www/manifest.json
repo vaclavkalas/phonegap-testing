@@ -1,0 +1,12 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "PhoneGapTesting",
+  "short_name": "PhoneGapTesting",
+  "version": "cz.pixman.phonegapTesting",
+  "description": "Testovací projekt",
+  "author": "PIXMAN s.r.o.",
+  "icons": [],
+  "start_url": "index.html",
+  "theme_color": "#ee6e73"
+}
